@@ -21,6 +21,7 @@ std::ofstream outfile2;
 
 //int Row;
 //int deepth = 0;
+//
 
 // original rule for spliting
 // a: left bound   b: right bound   d: dimension  k:number of (quantile) volume: volume of the cube
